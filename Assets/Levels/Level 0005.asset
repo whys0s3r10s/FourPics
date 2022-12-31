@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66610a134c014bf4ea8c1f44b07f50b7, type: 3}
+  m_Name: Level 0005
+  m_EditorClassIdentifier: 
+  Pics:
+  - {fileID: 21300000, guid: ad157e69009b8a5459563fe36da5bc66, type: 3}
+  - {fileID: 21300000, guid: 8e53e527be73426449da3486d660dfa8, type: 3}
+  - {fileID: 21300000, guid: 3704da2a5e816f5498405614529fb899, type: 3}
+  - {fileID: 21300000, guid: fff606ed9ab17cb44805bacf8f76b9bc, type: 3}
+  Word: RESTAURANT
+  Letters: RESTAURANTEG

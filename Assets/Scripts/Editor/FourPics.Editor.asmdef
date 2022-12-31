@@ -1,0 +1,16 @@
+{
+    "name": "FourPics.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:cdf5f478e76c9224d91b5ef64f890181"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
